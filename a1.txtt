@@ -1,0 +1,28 @@
+Git clone
+cd 
+ls
+Git add file1
+Git add file2
+Git add file3
+Git status
+Git status - modified 
+Git commit -m "file 1 modified"
+Git status
+Git commit - a -m "direct commit"
+Git status
+Git status (Adding text)
+Git diff
+Git mv file1.txt f1.txt
+Git status
+Git restore f1.txt
+Git rm file2.txt 
+Git status
+Git push origin
+Git push origin
+(Credential)
+Fir add karna hai a1. Txt
+Git push origin
+
+ssh-keygen -t ed25519 -C ” email”
+Fir file main jaake notepad main jaake woh ssh copy karnaa
+Fir setting main jake key 1 main description main paste karnaa
